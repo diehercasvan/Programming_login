@@ -70,6 +70,7 @@ El estudiante debe entregar **un enlace al repositorio de GitHub** con la siguie
 
 ### Estructura del Repositorio
 
+```
 taller-logica-programacion/
 │
 ├── README.md               <-- Portada del taller
@@ -98,6 +99,7 @@ taller-logica-programacion/
     ├── ej02_rectangulo.png
     ├── ... (una imagen por cada ejercicio)
     └── ej15_inventario.png
+```
 
 ### Descripción de los Entregables
 
